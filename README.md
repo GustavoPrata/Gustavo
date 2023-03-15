@@ -26,7 +26,7 @@ Atuando na Padaria do seu zé, 04/04/2021 - 04/05/2022.
 * Boa criatividade
 * Trabalho em equipe
 * Empatia com usuário/cliente
-* cuzinhar cimento
+* dar soco
 
 
 
