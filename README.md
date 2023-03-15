@@ -9,9 +9,9 @@
 * Cursando Superior em Análise e Desenvolvimento de Sistemas
 
 # Experiência Profissional
-## Padeiro loja seu Zé
+## Padeiro - Padaria do Seu Zé
 
-Atuando na Padaria do seu zé, 04/04/2021 - 04/05/2022.
+Atuando na Padaria do seu zé, 04/04/2021 - 04/09/2022.
 
 * Fazer pão bem gostoso;
 * Fazer coxinha de frango com sazon;
@@ -19,7 +19,9 @@ Atuando na Padaria do seu zé, 04/04/2021 - 04/05/2022.
 * Não deixar o pão torrar.
 
 # Cursos
-* Todos possiveis
+* Fivem Script Lobby
+* Excel avançado 2022
+* Adobe Photoshop 
 
 # Habilidades
 * Boa comunicação
